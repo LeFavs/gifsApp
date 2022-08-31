@@ -1,0 +1,13 @@
+#sidebar{
+    height: 100%;
+    min-height: 100vh;
+    min-width: 180px;
+    background-image: linear-gradient(to bottom right, rgba(179, 0, 255, 0.856), rgb(51, 0, 255));
+    border-top-right-radius: 30px;
+}
+h3{
+    text-align: center;
+}
+#history{
+    background-color: blue;
+}
